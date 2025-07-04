@@ -1,8 +1,6 @@
 # ✋ Finger Counter
 
-A real-time web application that detects and counts the number of fingers shown to the camera using [MediaPipe Hands](https://google.github.io/mediapipe/solutions/hands.html) and JavaScript. Built with ❤️ by [Yusma Rahman](https://www.linkedin.com/in/yourusername).
-
-![screenshot](https://via.placeholder.com/800x400?text=Finger+Counter+Preview)
+A real-time web application that detects and counts the number of fingers shown to the camera using [MediaPipe Hands](https://google.github.io/mediapipe/solutions/hands.html) and JavaScript. Built with ❤️ by [Yusma Rahman](https://www.linkedin.com/in/yusmarahman09/).
 
 ## 🚀 Features
 
